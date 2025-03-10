@@ -2,7 +2,7 @@
 
 [![Laravel](https://img.shields.io/badge/Laravel-12-red)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.2-blue)](https://www.php.net/)
-[![Tests](https://github.com/seu-repositorio/workflows/Tests/badge.svg)](https://github.com/seu-repositorio/actions)
+[![PHPUnit](https://img.shields.io/badge/Tests-PHPUnit-blue)](https://phpunit.de/)
 
 ## 📖 Sobre o Projeto
 
